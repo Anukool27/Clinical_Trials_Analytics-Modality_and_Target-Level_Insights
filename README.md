@@ -33,7 +33,7 @@ Shows how many patients were enrolled across trials.
 
 ### Median Enrollment Over Time
 Tracks how median patient enrollment evolved over the years.  
-![Median Enrollment Over Time](images/median_enrollment_over_time.png)
+![Median Enrollment Over Time](images/enrollment_trend_over_time.png)
 
 ### Modality Trend Over Time
 Tracks how the use of different therapeutic modalities has evolved.  
